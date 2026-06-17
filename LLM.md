@@ -1,4 +1,4 @@
-# remove-refusals — AI Assistant Context
+# remove-refusals
 
 # remove-refusals
 
