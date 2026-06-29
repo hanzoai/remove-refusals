@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="remove-refusals" width="880"></p>
+
 # remove-refusals
 
 Directional ablation to remove refusal behavior from transformer language models — without TransformerLens. Works with any model supported by HuggingFace Transformers.
